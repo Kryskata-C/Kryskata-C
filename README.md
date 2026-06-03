@@ -129,7 +129,7 @@ Full-stack **crowdfunding platform** — campaign management, payments, user aut
 <br/>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/58a6ff/Kryskata-C" alt="Kryskata-C Github Chart" />
+  <img width="100%" src="https://ssr-contributions-svg.vercel.app/_/Kryskata-C?bg=0d1117&color=58a6ff&chart=calendar&flat=true&from=2026-01-01&to=2026-06-03&widget_size=wide" alt="Contribution Calendar"/>
 </div>
 
 <br/>
