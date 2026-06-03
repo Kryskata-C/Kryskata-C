@@ -34,27 +34,7 @@ var christian = new Developer
 ## ⚡ Tech Stack
 
 <div align="center">
-
-**Languages**
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-**Frameworks & Tools**
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
-![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-FF6F00?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
+  <img src="https://skillicons.dev/icons?i=cs,py,ts,swift,js,dotnet,docker,html,css,git&theme=dark&perline=10" />
 </div>
 
 <br/>
@@ -124,6 +104,15 @@ Full-stack **crowdfunding platform** — campaign management, payments, user aut
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Kryskata-C&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&dates=c9d1d9&sideLabels=58a6ff&stroke=58a6ff"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kryskata-C/Kryskata-C/output/github-contribution-grid-snake-dark.svg">
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Kryskata-C/Kryskata-C/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br/>
