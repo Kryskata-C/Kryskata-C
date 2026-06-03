@@ -129,7 +129,7 @@ Full-stack **crowdfunding platform** — campaign management, payments, user aut
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kryskata-C&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff"/>
+  <img src="https://ghchart.rshah.org/58a6ff/Kryskata-C" alt="Kryskata-C Github Chart" />
 </div>
 
 <br/>
